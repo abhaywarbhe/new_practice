@@ -11,8 +11,15 @@ public class FibonacciDemo {
 			System.out.print(  "   "+c);
 			a=b;
 			b=c;
+			
+			
 		}
 
 	}
 
 }
+
+
+
+
+//new change
